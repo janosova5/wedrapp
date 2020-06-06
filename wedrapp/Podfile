@@ -1,0 +1,8 @@
+platform :ios, '12.0'
+use_frameworks!
+
+target 'wedrApp' do
+	pod 'AlamofireObjectMapper', '~> 5.2'
+	pod 'ObjectMapper', '~> 3.4'
+	pod 'ReactiveCocoa', '~> 8.0'
+end
