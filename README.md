@@ -9,6 +9,10 @@ If an user wants to see the weather on another location, he can type the name of
 When clicked on search field, the background is filled with the European metropoles weather. An user can click on some of them to see more or can continue to type his own location. 
 The left navigation bar button on home screen enables an user to refresh the location with his current location.
 
+![](wedrapp/app/Resources/home.png)
+
+
+
 ### Some tech stuff 🔧
 
 The app architecture uses the MVVM architecture pattern.
