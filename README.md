@@ -12,7 +12,7 @@ The left navigation bar button on home screen enables an user to refresh the loc
 ### Some tech stuff
 
 The app architecture uses the MVVM architecture pattern.
-The app uses the Cocoapods - Alamofire and ObjectMapper for request mapping and ReactiveCocoa for the code to be reactive.
+The app uses the Cocoapods - Alamofire and ObjectMapper for the request mapping and ReactiveCocoa for the code to be reactive.
 
 
 
