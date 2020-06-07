@@ -10,7 +10,9 @@ When clicked on search field, the background is filled with the European metropo
 The left navigation bar button on home screen enables an user to refresh the location with his current location.
 
 ![](wedrapp/app/Resources/home.png)
-
+![](wedrapp/app/Resources/forecast.png)
+![](wedrapp/app/Resources/metropoles.png)
+![](wedrapp/app/Resources/search.png)
 
 
 ### Some tech stuff 🔧
